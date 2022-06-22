@@ -5,5 +5,5 @@ Its purpose is to be used to track employee information regarding Covid-19, and 
 
 Link to a video of the application and a code walkthrough / application demonstration: https://screencast-o-matic.com/watch/c3fZqsVYZQq
 
-**To Run**
-Download and run "CovidTracker.java" in at least Java 17.0.1. 
+## To Run
+Clone and run "CovidTracker.java" in at least Java 17.0.1. 
